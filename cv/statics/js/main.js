@@ -260,14 +260,14 @@ var btnText = document.getElementById("myBtn1");
 var moreText = document.getElementById(divId);
 if(moreText.style.display == 'none')
 {
-btnText.innerHTML = "read Less";
+document.getElementById("myBtn1").innerHTML = "read Less";
 moreText.style.display='inline';
 }
 else
 {
 
   moreText.style.display = 'none';
-btnText.innerHTML = "read more";
+document.getElementById("myBtn1").innerHTML = "read more";
 }
 }
 //////////////////////////////////////
@@ -277,14 +277,14 @@ var btnText = document.getElementById("myBtn2");
 var moreText = document.getElementById(divId);
 if(moreText.style.display == 'none')
 {
-btnText.innerHTML = "read Less";
+document.getElementById("myBtn2").innerHTML = "read Less";
 moreText.style.display='inline';
 }
 else
 {
 
   moreText.style.display = 'none';
-btnText.innerHTML = "read more";
+document.getElementById("myBtn2").innerHTML = "read more";
 }
 }
 //////////////////////////////////////
@@ -294,14 +294,14 @@ var btnText = document.getElementById("myBtn3");
 var moreText = document.getElementById(divId);
 if(moreText.style.display == 'none')
 {
-btnText.innerHTML = "read Less";
+document.getElementById("myBtn3").innerHTML = "read Less";
 moreText.style.display='inline';
 }
 else
 {
 
   moreText.style.display = 'none';
-btnText.innerHTML = "read more";
+document.getElementById("myBtn3").innerHTML = "read more";
 }
 }
 //////////////////////////////////////
@@ -311,14 +311,14 @@ var btnText = document.getElementById("myBtn4");
 var moreText = document.getElementById(divId);
 if(moreText.style.display == 'none')
 {
-btnText.innerHTML = "read Less";
+document.getElementById("myBtn4").innerHTML = "read Less";
 moreText.style.display='inline';
 }
 else
 {
 
   moreText.style.display = 'none';
-btnText.innerHTML = "read more";
+document.getElementById("myBtn4").innerHTML = "read more";
 }
 }
 //////////////////////////////////////
@@ -328,14 +328,14 @@ var btnText = document.getElementById("myBtn5");
 var moreText = document.getElementById(divId);
 if(moreText.style.display == 'none')
 {
-btnText.innerHTML = "read Less";
+document.getElementById("myBtn5").innerHTML = "read Less";
 moreText.style.display='inline';
 }
 else
 {
 
   moreText.style.display = 'none';
-btnText.innerHTML = "read more";
+document.getElementById("myBtn5").innerHTML = "read more";
 }
 }
 //////////////////////////////////////
@@ -345,14 +345,14 @@ var btnText = document.getElementById("myBtn6");
 var moreText = document.getElementById(divId);
 if(moreText.style.display == 'none')
 {
-btnText.innerHTML = "read Less";
+document.getElementById("myBtn6").innerHTML = "read Less";
 moreText.style.display='inline';
 }
 else
 {
 
   moreText.style.display = 'none';
-btnText.innerHTML = "read more";
+document.getElementById("myBtn6").innerHTML = "read more";
 }
 }
 //////////////////////////////////////
@@ -362,14 +362,14 @@ var btnText = document.getElementById("myBtn7");
 var moreText = document.getElementById(divId);
 if(moreText.style.display == 'none')
 {
-btnText.innerHTML = "read Less";
+document.getElementById("myBtn7").innerHTML = "read Less";
 moreText.style.display='inline';
 }
 else
 {
 
   moreText.style.display = 'none';
-btnText.innerHTML = "read more";
+document.getElementById("myBtn7").innerHTML = "read more";
 }
 }
 //////////////////////////////////////
@@ -379,14 +379,14 @@ var btnText = document.getElementById("myBtn8");
 var moreText = document.getElementById(divId);
 if(moreText.style.display == 'none')
 {
-btnText.innerHTML = "read Less";
+document.getElementById("myBtn8").innerHTML = "read Less";
 moreText.style.display='inline';
 }
 else
 {
 
   moreText.style.display = 'none';
-btnText.innerHTML = "read more";
+document.getElementById("myBtn8").innerHTML = "read more";
 }
 }
 //////////////////////////////////////
@@ -396,14 +396,14 @@ var btnText = document.getElementById("myBtn9");
 var moreText = document.getElementById(divId);
 if(moreText.style.display == 'none')
 {
-btnText.innerHTML = "read Less";
+document.getElementById("myBtn9").innerHTML = "read Less";
 moreText.style.display='inline';
 }
 else
 {
 
   moreText.style.display = 'none';
-btnText.innerHTML = "read more";
+document.getElementById("myBtn9").innerHTML = "read more";
 }
 }
 //////////////////////////////////////
@@ -413,14 +413,14 @@ var btnText = document.getElementById("myBtn10");
 var moreText = document.getElementById(divId);
 if(moreText.style.display == 'none')
 {
-btnText.innerHTML = "read Less";
+document.getElementById("myBtn10").innerHTML = "read Less";
 moreText.style.display='inline';
 }
 else
 {
 
   moreText.style.display = 'none';
-btnText.innerHTML = "read more";
+document.getElementById("myBtn10").innerHTML = "read more";
 }
 }
 //////////////////////////////////////
